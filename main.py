@@ -1,5 +1,7 @@
 from ContaBancaria import ContaBancaria
 
+#<-- FUNÇÃO CONTA -->
+
 conta = ContaBancaria.conta('12345', 'João', 1000.0, 500.0)
 
 print(f"\nTipo da conta: ", conta['tipo_conta'])
@@ -10,11 +12,11 @@ print("Limite da conta: ", conta['limite'])
 
 print("\n")
 
-#FUNÇÃO EXTRATO
+#<-- FUNÇÃO EXTRATO -->
 
-ContaBancaria.extrato(conta)
+#ContaBancaria.extrato(conta)
 
-#FUNÇÃO DEPOSITO
+#<-- FUNÇÃO DEPOSITO -->
 
 # deposito = ContaBancaria.depositar(conta, 200.0)
 # print("Saldo antes do saque:", conta['saldo'])
