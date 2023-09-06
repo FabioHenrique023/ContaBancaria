@@ -1,6 +1,6 @@
-# Atividade avaliativa da disciplina de programação orientada a objetos 2
+<h3>Atividade avaliativa da disciplina de programação orientada a objetos 2<h3>
 
-<h1>ENUNCIADO</h1>
+<h3><center>ENUNCIADO</center></h3>
 
 1. Crie um repositório no GitHub com o nome ContaBancaria.
 2. Crie a função chamada cria_conta( ), que recebe como argumento numero, titular, saldo e
