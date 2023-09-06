@@ -1,7 +1,7 @@
 <h3>Atividade avaliativa da disciplina de programação orientada a objetos 2<h3>
 
 <h3><center>Requisitos do projeto</center></h3>
-<card>
+
 1. Crie um repositório no GitHub com o nome ContaBancaria.
 2. Crie a função chamada cria_conta( ), que recebe como argumento numero, titular, saldo e
 limite.
@@ -15,6 +15,5 @@ deseja sacar o valor, que recebe como argumento um conta, tipo de conta e um val
 da função, subtraia o valor do saldo.
 6. E por fim, crie uma função chamada extrato( ), que recebe como argumento uma conta e
 imprima o numero e o saldo.
-</card>
 
 Trabalho destinado a conhecimentos sobre classes, linguagem utilizada python.
